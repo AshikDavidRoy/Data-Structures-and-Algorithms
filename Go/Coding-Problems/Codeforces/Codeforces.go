@@ -1,0 +1,1 @@
+// Codeforces implementation in Go
